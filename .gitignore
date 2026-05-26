@@ -41,3 +41,10 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# Plug-in files
+EasyEDA_Lib/
+EASYEDA_MODELS/
+jlcpcb/
+ibom.config.ini
+jlc-kicad-lib-loader.ini
