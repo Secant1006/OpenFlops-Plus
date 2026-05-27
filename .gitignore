@@ -43,8 +43,9 @@ fp-info-cache
 *.kicad_prl
 
 # Plug-in files
-EasyEDA_Lib/
-EASYEDA_MODELS/
-jlcpcb/
-ibom.config.ini
-jlc-kicad-lib-loader.ini
+*bom/
+*EasyEDA_Lib/
+*EASYEDA_MODELS/
+*jlcpcb/
+*ibom.config.ini
+*jlc-kicad-lib-loader.ini
