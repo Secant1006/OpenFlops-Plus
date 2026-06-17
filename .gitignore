@@ -49,3 +49,7 @@ fp-info-cache
 *jlcpcb/
 *ibom.config.ini
 *jlc-kicad-lib-loader.ini
+
+# Miscellaneous
+release/
+gerber/
