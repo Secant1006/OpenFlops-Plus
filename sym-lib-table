@@ -1,3 +1,5 @@
 (sym_lib_table
+  (version 7)
   (lib (name "EasyEDA_Lib")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/EasyEDA_Lib/EasyEDA_Lib.elibz")(options "")(descr ""))
+  (lib (name "SR05_TCT")(type "KiCad")(uri "C:/Users/admin/Downloads/KiCad/SR05_TCT.kicad_sym")(options "")(descr ""))
 )
